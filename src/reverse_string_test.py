@@ -2,8 +2,6 @@ import unittest
 
 from reverse_string import reverse
 
-# Tests adapted from `problem-specifications//canonical-data.json`
-
 
 class ReverseStringTest(unittest.TestCase):
     def test_an_empty_string(self):
